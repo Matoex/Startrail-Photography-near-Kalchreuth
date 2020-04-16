@@ -1,1 +1,0 @@
-# Startrail-Photography-near-Kalchreuth
