@@ -38,8 +38,8 @@ use FFMPEG to render the video
 ffmpeg -r 10  -i S__00000%03d.jpg  -vcodec libx264 -vf scale="iw/1:ih/1"  comet.mp4 
 ```
 
-### Embeded Youtube Video
-<iframe width="600" height="800" src="https://www.youtube.com/embed/b7orlhs05yo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### Youtube Video
+<a src="https://www.youtube.com/embed/b7orlhs05yo" >Youtube Video</a>
 
 
 ## Links
