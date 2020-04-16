@@ -39,8 +39,7 @@ ffmpeg -r 10  -i S__00000%03d.jpg  -vcodec libx264 -vf scale="iw/1:ih/1"  comet.
 ```
 
 ### Youtube Video
-<a src="https://www.youtube.com/embed/b7orlhs05yo" >Youtube Video</a>
-
+[Youtube Video](https://www.youtube.com/embed/b7orlhs05yo)
 
 ## Links
 [StarStaX](https://markus-enzweiler.de/software/starstax/)
