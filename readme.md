@@ -38,7 +38,7 @@ use FFMPEG to render the video
 ffmpeg -r 10  -i S__00000%03d.jpg  -vcodec libx264 -vf scale="iw/1:ih/1"  comet.mp4 
 ```
 
-### Youtube Video
+### Youtube Video (additive timelapse ❤️)
 [Youtube Video](https://www.youtube.com/embed/b7orlhs05yo)
 
 ## Links
